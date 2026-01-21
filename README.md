@@ -2,7 +2,7 @@
 
 ## Taxonomy
 
-TODO：补充Taxonomy
+TODO：补充onomy
 
 ---
 
@@ -74,7 +74,7 @@ TODO：补充Taxonomy
 
 ---
 
-### 2) IRS（Interactive Recommender System）
+### 2) IRS
 
 #### 2.1 KG-Enhanced LLMs for IRS
 
