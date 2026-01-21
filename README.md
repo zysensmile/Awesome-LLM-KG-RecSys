@@ -2,7 +2,7 @@
 
 ## Taxonomy
 
-TODO：补充onomy
+TODO：补充Taxonomy
 
 ---
 
