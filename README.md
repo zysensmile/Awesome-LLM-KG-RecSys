@@ -8,7 +8,7 @@
 
 ## Paper List
 
-### 1) TRS
+### 1) Traditional Recomemnder System (TRS)
 
 #### 1.1 KG-Enhanced LLMs for TRS
 
@@ -78,7 +78,7 @@
 
 ---
 
-### 2) IRS
+### 2) Interactive Recommender System (IRS)
 
 #### 2.1 KG-Enhanced LLMs for IRS
 
@@ -124,7 +124,7 @@
 
 ---
 
-### 3) CRS
+### 3) Conversational Recommender System (CRS)
 
 #### 3.1 KG-Enhanced LLMs for CRS
 
